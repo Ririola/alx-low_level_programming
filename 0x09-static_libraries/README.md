@@ -1,1 +1,1 @@
-readmestatic
+readm
